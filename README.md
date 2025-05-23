@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PEW-PEW-PEW
+- 👋 Hi, I’m @JenisSanghani
 - 👀 I’m interested in Android/AI-ML Dev
 - 🌱 I’m currently learning JetPack Compose
 - 💞️ I’m looking to collaborate on on Device AI
